@@ -4,7 +4,7 @@
     "name": "SvelteKit starter"
   },
   "api": {
-    "projectId": "a3cpk9am",
+    "projectId": "8iymn0x3",
     "dataset": "production"
   },
   "plugins": [
@@ -21,9 +21,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
